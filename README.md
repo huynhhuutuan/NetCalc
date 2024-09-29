@@ -1,3 +1,5 @@
+**Required:**
+- .NET 8.x
 
 ```bash
 # Publish
